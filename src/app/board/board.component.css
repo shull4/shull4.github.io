@@ -9,10 +9,9 @@ div {
 input{
   width: 300px;
   padding: 10px;
-  border: 1px solid violet;
+  box-shadow:5px 2px 2px lightgray;
   outline: 0;
   background: #fff;
-  box-shadow:none;
   height:5%;
 }
 
@@ -24,3 +23,4 @@ input{
   border-radius: 25px;
   cursor: pointer;
 }
+

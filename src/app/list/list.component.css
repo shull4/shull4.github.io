@@ -1,5 +1,5 @@
 .list {
-  background:lightyellow;
+  background: #E3E2E1;
   width: 350px;
   padding: 6px;
   margin: 5px;
@@ -21,16 +21,19 @@
 input{
   width: 300px;
   padding: 10px;
-  border: 1px solid violet;
   outline: 0;
   background: #fff;
-  box-shadow:none;
+  box-shadow:5px 2px 2px lightgray;
 }
 
 .add_card{
-   color: red;
    font-weight: bold;
    display: inline-block;
   cursor: pointer;
-  border-radius: 25px;
  }
+
+#newTask {
+  background-color: #0079bf;
+  color: white;
+}
+
